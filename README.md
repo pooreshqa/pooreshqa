@@ -1,5 +1,5 @@
 ### Hi there 👋
-🧑‍🎓 I'm student in Saint Petersburg Electrotechnical University
+🎓 I'm student in Saint Petersburg Electrotechnical University
 
 🌱 I’m currently learning C / C++
 <!--
